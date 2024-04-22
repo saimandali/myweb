@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.160.82.120:8081/repository/sai-snapshots/</url>
+		    <url>http://54.160.82.120:8081/repository/sai-releases/</url>
 		</repository>
   	</distributionManagement>
 	
